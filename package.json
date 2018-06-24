@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/thiagovyana/Projeto/issues"
   },
-  "homepage": "https://github.com/thiagovyana/Projeto#readme"
+  "homepage": "https://github.com/thiagovyana/Projeto#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
 }
