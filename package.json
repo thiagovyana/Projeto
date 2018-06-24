@@ -1,0 +1,19 @@
+{
+  "name": "projeto-teste",
+  "version": "1.0.0",
+  "description": "Projeto voltado para testes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thiagovyana/Projeto.git"
+  },
+  "author": "Thiago Viana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thiagovyana/Projeto/issues"
+  },
+  "homepage": "https://github.com/thiagovyana/Projeto#readme"
+}
